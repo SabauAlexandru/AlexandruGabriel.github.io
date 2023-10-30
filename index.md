@@ -1,6 +1,6 @@
 # [Sabau Alexandru]
 
-![totalstationimage](/assets/img/ts.png)
+![totalstationimage](/assets/img/tsskk.png)
 
 ## Student la Facultatea de Geodezie | Dezvoltator Web Amator
 
