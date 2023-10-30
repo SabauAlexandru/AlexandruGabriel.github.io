@@ -1,8 +1,8 @@
-# **==Sabau Alexandru==**
+># _Sabau Alexandru_
 
 ![totalstationimage](/assets/img/ts.png)
 
->## ==Student la Facultatea de Geodezie== | Dezvoltator Web Amator
+>##  Student la Facultatea de Geodezie | Dezvoltator Web Amator
 
 Bine ai venit pe pagina mea de internet de portofoliu! Sunt [Sabau Alexandru], un student pasionat de _Geodezie_ cu o dragoste pentru dezvoltarea web. Aici vei găsi o prezentare a experienței și a proiectelor mele.
 
